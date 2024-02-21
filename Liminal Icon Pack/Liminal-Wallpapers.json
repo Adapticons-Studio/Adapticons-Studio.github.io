@@ -3,6 +3,16 @@
         "name": "Akatsuki Line Art",
         "author": "Deidara",
         "url": "https://unsplash.com/photos/grayscale-photo-of-desert-8xznAGy4HcY",
-        "thumbUrl": "https://unsplash.com/photos/grayscale-photo-of-desert-8xznAGy4HcY"
+        "thumbUrl": "https://unsplash.com/photos/grayscale-photo-of-desert-8xznAGy4HcY",
     }
+]
+[
+  {
+    "maker": "Sample Maker",
+    "src": "https://samplemaker.com/sample-1.jpg",
+  },
+  {
+    "maker": "Sample Maker",
+    "src": "https://samplemaker.com/sample-2.jpg",
+  }
 ]
