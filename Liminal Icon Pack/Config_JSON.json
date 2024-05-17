@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.0",
-  "latestVersionCode": 5,
+  "latestVersionCode": 6,
   "disableRequest": {
-    "below": 5,
+    "below": 6,
     "on": "1,2,3,4"
   },
   "url": "https://adapticons-studio.github.io/Liminal%20Icon%20Pack/Config_JSON.json",
