@@ -1,14 +1,10 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 7,
-  "disableRequest": {
-    "below": 5,
-    "on":
-  },
-  "url": "https://adapticons-studio.github.io/Liminal%20Icon%20Pack/Config_JSON.json",
+  "latestVersion": "1.1",
+  "latestVersionCode": 1,
+  "url": "https://github.com/zixpo/candybar",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "Another Release Note"
-    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+    "This is the text which will be shown on update changelog",
+    "Another release note",
+    "You can use <b>text</b> <i>formatting</i> <u>here</u>"
   ]
 }
