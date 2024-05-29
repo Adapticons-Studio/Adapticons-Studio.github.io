@@ -10,23 +10,5 @@
     		"author": "Alexandra Kikot",
     		"url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
     		"thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
-  	},
-  	{
-    		"name": "Duotone Dahlias",
-    		"author": "Annie Spratt",
-    		"url": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80",
-    		"thumbUrl": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80&w=200"
-  	},
-	{
-		"name": "Someone",
-    		"author": "Samir",
-		"url": "https://images.unsplash.com/photo-1716224835882-ba…xMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?ixlib=rb-1.2.1&q=80"
-    		"thumbUrl": "https://images.unsplash.com/photo-1716224835882-ba…xMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?ixlib=rb-1.2.1&q=80&w=200"
-	},
-	{
-		"name": "Someone",
-    		"author": "Samir",
-    		"url": "https://images.unsplash.com/photo-1716224835882-ba9133a9d407?ixlib=rb-1.2.1&q=80",
-    		"thumbUrl": "https://images.unsplash.com/photo-1716224835882-ba9133a9d407?ixlib=rb-1.2.1&q=80&w=200"
-	}
+  	}
 ]
